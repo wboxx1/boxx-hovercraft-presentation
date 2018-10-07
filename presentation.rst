@@ -6,7 +6,7 @@
 
 .. header::
 
-    .. image:: build/images/hovercraft_logo.png
+    .. image:: images/hovercraft_logo.png
 
 .. footer::
 
@@ -153,11 +153,11 @@ Images
 
 You can insert an image with the .. image:: directive:
 
-.. image:: build/images/hovercraft_logo.png
+.. image:: images/hovercraft_logo.png
 
 And you can optionally set width and height:
 
-.. image:: build/images/hovercraft_logo.png
+.. image:: images/hovercraft_logo.png
     :width: 50px
     :height: 130px
 
@@ -166,7 +166,7 @@ works fine with Hovercraft! as well, as you can see on the next slide.
 
 ----
 
-.. image:: build/images/hovercraft_logo.png
+.. image:: images/hovercraft_logo.png
 
 ----
 
