@@ -2,7 +2,7 @@
 :author: Lennart Regebro
 :description: The Hovercraft! tutorial.
 :keywords: presentation, restructuredtext, impress.js, tutorial
-:css: build/css/hovercraft.css
+:css: css/hovercraft.css
 
 .. header::
 
